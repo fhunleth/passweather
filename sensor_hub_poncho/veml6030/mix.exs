@@ -29,7 +29,7 @@ defmodule Veml6030.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:circuits_i2c, "~> 0.3.8"}
+      {:circuits_i2c, "~> 1.0"}
     ]
   end
 end
